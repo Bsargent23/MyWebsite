@@ -1,0 +1,51 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {color:hotpink }
+h2 {color:#ffadff}
+
+h1{ text-align: center;}
+
+
+h1 { font-family: “Papyrus”, copperplate, fantasy;}
+p { font-family: “Verdana”, Arial, Sans-serif;}
+
+h1 { font-size: 50px;}
+p { font-size: 18px;}
+
+cl { list-style-type: circle;}
+
+table{
+  border-collapse: collapse;
+         border: 1px solid black;
+}
+
+th, td {
+      border: 1px solid black;
+}
+
+th {background-color:hotpink; font-size: 20px;
+   }
+
+td:first-child {background-color:#ffadff; padding:10pt;
+  }
+td:nth-child(3) {background-color:#ffadff; padding:10pt;}
+
+td:nth-child(2) {background-color:#1af999; padding:10pt;}
+
+td:nth-child(4) {background-color:#1af999; padding:10pt;}
+
+#alert {color: hotpink;font-size: 20px;font-weight: bold}
+
+#start {color:#1af999}
+
+#last {color:deeppink}
+
+#nice{color:aqua; font-weight:bold }
+
+#bigger {font-size: 20px}
+
+a:link {color: #add8ff }
+a:visited { color:#1a29f9}
