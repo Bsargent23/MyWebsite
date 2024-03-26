@@ -3,49 +3,114 @@ html {
   width: 100%;
 }
 
-h1 {color:hotpink }
-h2 {color:#ffadff}
+h1 {
+  color: hotpink
+}
 
-h1{ text-align: center;}
+h2 {
+  color: #ffadff
+}
+
+h1 {
+  text-align: center;
+}
 
 
-h1 { font-family: “Papyrus”, copperplate, fantasy;}
-p { font-family: “Verdana”, Arial, Sans-serif;}
+h1 {
+  font-family: “Papyrus”, copperplate, fantasy;
+}
 
-h1 { font-size: 50px;}
-p { font-size: 18px;}
+p {
+  font-family: “Verdana”, Arial, Sans-serif;
+}
 
-cl { list-style-type: circle;}
+h1 {
+  font-size: 50px;
+}
 
-table{
+p {
+  font-size: 18px;
+}
+
+cl {
+  list-style-type: circle;
+}
+
+table {
   border-collapse: collapse;
-         border: 1px solid black;
+  border: 1px solid black;
 }
 
-th, td {
-      border: 1px solid black;
+th,
+td {
+  border: 1px solid black;
 }
 
-th {background-color:hotpink; font-size: 20px;
-   }
+th {
+  background-color: hotpink;
+  font-size: 20px;
+}
 
-td:first-child {background-color:#ffadff; padding:10pt;
-  }
-td:nth-child(3) {background-color:#ffadff; padding:10pt;}
+td:first-child {
+  background-color: #ffadff;
+  padding: 10pt;
+}
 
-td:nth-child(2) {background-color:#1af999; padding:10pt;}
+td:nth-child(3) {
+  background-color: #ffadff;
+  padding: 10pt;
+}
 
-td:nth-child(4) {background-color:#1af999; padding:10pt;}
+td:nth-child(2) {
+  background-color: #1af999;
+  padding: 10pt;
+}
 
-#alert {color: hotpink;font-size: 20px;font-weight: bold}
+td:nth-child(4) {
+  background-color: #1af999;
+  padding: 10pt;
+}
 
-#start {color:#1af999}
+#alert {
+  color: hotpink;
+  font-size: 20px;
+  font-weight: bold
+}
 
-#last {color:deeppink}
+#start {
+  color: #1af999
+}
 
-#nice{color:aqua; font-weight:bold }
+#start2 {
+  color: #1af999
+}
 
-#bigger {font-size: 20px}
+#last {
+  color: deeppink
+}
 
-a:link {color: #add8ff }
-a:visited { color:#1a29f9}
+#last2 {
+  color: deeppink
+}
+
+#nice {
+  color: aqua;
+  font-weight: bold
+}
+
+#nice2 {
+  color: aqua;
+  font-weight: bold
+}
+
+#bigger {
+  font-size: 20px
+}
+
+a:link {
+  color: #add8ff
+}
+
+a:visited {
+  color: #1a29f9
+}
